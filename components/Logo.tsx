@@ -9,7 +9,7 @@ function Logo(props: any) {
         className="rounded-full object-cover"
         width={50}
         height={50}
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/640px-Facebook_Logo_%282019%29.png"
+        src="https://api.freelogodesign.org/assets/thumb/logo/a17b07eb64d341ffb1e09392aa3a1698_400.png"
         alt="logo"
       />
       <>{renderDefault(props)}</>
